@@ -1,0 +1,14 @@
+/* admin-style.css */
+#ai-chat-container {
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#ai-chat-output p {
+    margin: 5px 0;
+}
+
+#ai-chat-output p strong {
+    color: #0073aa;
+}
